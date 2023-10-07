@@ -1,0 +1,15 @@
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\bin\Debug\net6.0\nazvanie_papki.exe
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\bin\Debug\net6.0\nazvanie_papki.deps.json
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\bin\Debug\net6.0\nazvanie_papki.runtimeconfig.json
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\bin\Debug\net6.0\nazvanie_papki.dll
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\bin\Debug\net6.0\nazvanie_papki.pdb
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\nazvanie_papki.csproj.AssemblyReference.cache
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\nazvanie_papki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\nazvanie_papki.AssemblyInfoInputs.cache
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\nazvanie_papki.AssemblyInfo.cs
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\nazvanie_papki.csproj.CoreCompileInputs.cache
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\nazvanie_papki.dll
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\refint\nazvanie_papki.dll
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\nazvanie_papki.pdb
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\nazvanie_papki.genruntimeconfig.cache
+C:\Users\mezhe\Desktop\разбор\nazvanie_papki\obj\Debug\net6.0\ref\nazvanie_papki.dll
